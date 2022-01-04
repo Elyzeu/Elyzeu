@@ -1,5 +1,5 @@
-- 👋 Olá, eu sou Elyzeu.
-- 👀 Sou interessado em desenvolver aplicações web, com foco em resolução de problemas.
+- 👋 Olá, sou Elyzeu.
+- 👀 Tenho interesse em aplicações web, com foco em resoluções de problemas.
 - 🌱 Atualmente estou aperfeiçoando meus conhecimentos sobre php.
 - 💞️ Espero contribuir com a comunidade.
 - 📫 elyzeucunha@gmail.com
